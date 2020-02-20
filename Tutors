@@ -1,0 +1,8 @@
+{'name': 'David Zhang', 'expertises': ['science', 'math'], 'availabilities': ['monday evening', 'sunday morning']}
+{'name': 'Nikhil Ajjarapu', 'expertises': ['history', 'science', 'economics'], 'availabilities': ['thursday evening', 'saturday afternoon', 'sunday morning', 'sunday evening']}
+{'name': 'Victoria Gong', 'expertises': ['science', 'language', 'programming'], 'availabilities': ['friday afternoon', 'thursday evening', 'sunday afternoon', 'sunday evening', 'monday evening']}
+{'name': 'Vincent Huang', 'expertises': ['math', 'economics', 'english'], 'availabilities': ['monday evening', 'sunday evening', 'sunday afternoon']}
+{'name': 'Praneel Chakraborty', 'expertises': ['english'], 'availabilities': ['thursday evening', 'friday afternoon', 'sunday morning']}
+{'name': 'Harrison Wang', 'expertises': ['math'], 'availabilities': ['thursday morning']}
+{'name': 'Thacher Smith', 'expertises': ['economics', 'latin'], 'availabilities': ['monday evening', 'sunday evening']}
+{'name': 'Emperor Palpatine', 'expertises': ['the dark side', 'force lightning', 'being old'], 'availabilities': ['tuesday afternoon', 'wednesday evening']}

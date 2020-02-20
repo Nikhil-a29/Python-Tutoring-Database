@@ -1,0 +1,10 @@
+{'name': 'David Zhang', 'needs': ['math', 'science', 'english'], 'availabilities': ['sunday afternoon', 'wednesday afternoon', 'tuesday evening']}
+{'name': 'Jimmy Chen', 'needs': ['english', 'math', 'history'], 'availabilities': ['sunday afternoon', 'tuesday evening']}
+{'name': 'Nikhil Ajjarapu', 'needs': ['science', 'programming'], 'availabilities': ['sunday evening', 'thursday evening']}
+{'name': 'Johnny Nguyen', 'needs': ['science', 'economics'], 'availabilities': ['thursday evening', 'sunday afternoon']}
+{'name': 'Fake man', 'needs': ['latin', 'number theory', 'algebra'], 'availabilities': ['sunday evening', 'monday evening', 'sunday afternoon']}
+{'name': 'Anakin Skywalker', 'needs': ['the dark side'], 'availabilities': ['tuesday afternoon', 'sunday evening', 'wednesday evening']}
+{'name': 'Simon Cull', 'needs': ['math'], 'availabilities': ['wednesday evening']}
+{'name': 'Russell Westbrook', 'needs': ['shooting'], 'availabilities': ['sunday evening']}
+{'name': 'Akash Patel', 'needs': ['science'], 'availabilities': ['sunday afternoon', 'thursday evening', 'saturday afternoon']}
+{'name': 'Mitchell Tung', 'needs': ['coding'], 'availabilities': ['sunday evening']}
